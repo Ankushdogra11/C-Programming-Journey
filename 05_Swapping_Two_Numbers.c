@@ -6,7 +6,7 @@
 
 #include <stdio.h>
 
-int a,b,x;
+int a,b,temp;
 
 int main(){
  printf("Enter a:\n");
