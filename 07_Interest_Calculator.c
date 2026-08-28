@@ -1,10 +1,17 @@
+/*
+    Program: Simple Interest Calculator
+    Description: Takes principal, rate, and time as input from the user and calculates simple interest.
+    Concepts: Variables, User Input, Arithmetic Operators, Floating-Point Calculation
+*/
+
 #include <stdio.h>
+
+int main(){
 
 int Principal;
 float Rate,Time;
 float Interest;
 
-int main(){
 	printf("Enter Principal :\n");
 	scanf("%d",& Principal);
 	
