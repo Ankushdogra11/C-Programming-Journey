@@ -9,7 +9,6 @@
 
 int number1, number2, number3;
 int Sum;
-float Average;
 
 int main(){
 	printf("Enter number1:\n");
@@ -24,5 +23,6 @@ int main(){
 	Sum = number1 + number2 + number3;
 	
 	printf("Sum : %d + %d +%d = %d\n", number1, number2, number3 , Sum);
-	  return 0;
+	  
+return 0;
 }
