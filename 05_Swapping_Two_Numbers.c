@@ -6,9 +6,9 @@
 
 #include <stdio.h>
 
+int main(){
 int a,b,temp;
 
-int main(){
  printf("Enter a:\n");
  scanf("%d",&a);
  printf("Enter b:\n");
