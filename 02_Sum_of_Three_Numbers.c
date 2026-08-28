@@ -1,3 +1,10 @@
+/*
+    Program: Sum of Three Numbers
+    Description: Takes three numbers from the user as input and calculates their sum.
+    Concepts: Variables, scanf(), printf(), Arithmetic Operators
+*/
+
+
 #include<stdio.h>
 
 int number1, number2, number3;
