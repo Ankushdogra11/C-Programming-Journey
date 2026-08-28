@@ -1,7 +1,7 @@
 /*
     Program: Mini Calculator
     Description: Takes two numbers as input from the user and performs addition, subtraction, multiplication, and division.
-    Concepts: Variables, User Input, Arithmetic Operators, Conditional Statements
+    Concepts: Variables, User Input, Arithmetic Operators,Conditional Statements
 */
 
 #include <stdio.h>
