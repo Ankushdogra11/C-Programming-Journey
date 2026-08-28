@@ -1,3 +1,9 @@
+/*
+    Program: Swapping Two Numbers
+    Description: Takes two numbers as input from the user and swaps their values using a temporary variable.
+    Concepts: Variables, User Input, Assignment Operator, Temporary Variable
+*/
+
 #include <stdio.h>
 
 int a,b,x;
@@ -10,9 +16,9 @@ int main(){
  
 printf("Before swapping a : %d and b : %d\n", a,b);
           
-x = a;
+temp = a;
 a = b;
-b = x;
+b = temp;
 
 printf("After swapping a : %d and b : %d",a,b);
 
