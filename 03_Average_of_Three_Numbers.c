@@ -1,3 +1,9 @@
+/*
+    Program: Average of Three Numbers
+    Description: Takes three numbers as input from the user and calculates their average.
+    Concepts: Variables, User Input, Arithmetic Operators, Floating-Point Calculation
+*/
+
 #include<stdio.h>
 
 int number1, number2, number3;
