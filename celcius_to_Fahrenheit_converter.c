@@ -1,3 +1,10 @@
+/*
+    Program: Celsius to Fahrenheit Converter 
+    Description: Takes temperature in Celsius as input from the user and converts it into Fahrenheit.
+    Concepts: Variables, User Input, Arithmetic Operators, Floating-Point Calculation
+*/
+
+
 #include <stdio.h>
 
 float Celsius, Fahrenheit;
