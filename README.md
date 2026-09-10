@@ -34,3 +34,4 @@ the learning sequence.
 Currently learning and practicing C programming consistently.
 
 > Learning → Practicing → Building → Improving
+
